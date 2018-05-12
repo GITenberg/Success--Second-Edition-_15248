@@ -1,0 +1,32 @@
+_repo: Success--Second-Edition-_15248
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Beaverbrook, Max Aitken, Baron
+    aliases:
+    - Aitken, Max, Sir
+    - Beaverbrook, William Maxwell Aitken, Baron
+    - Beaverbrook, Lord Max Aitken
+    - Aitken, William Maxwell, Sir
+    birthdate: 1879
+    deathdate: 1964
+    gutenberg_agent_id: '5943'
+    url: http://www.gutenberg.org/2009/agents/5943
+    wikipedia: http://en.wikipedia.org/wiki/Max_Aitken,_1st_Baron_Beaverbrook
+description: ''
+gutenberg_issued: '2005-03-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15248'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'HF'
+- !lcsh 'Success'
+title: Success (Second Edition)
+url: http://www.gutenberg.org/ebooks/15248
