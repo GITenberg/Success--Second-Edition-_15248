@@ -17,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5943
     wikipedia: http://en.wikipedia.org/wiki/Max_Aitken,_1st_Baron_Beaverbrook
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/15248#Success--Second-Edition-
 gutenberg_issued: '2005-03-04'
 gutenberg_type: Text
 identifiers:
